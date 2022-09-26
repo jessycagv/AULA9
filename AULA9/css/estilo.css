@@ -1,0 +1,41 @@
+#topo{
+    width: 100%;
+    background-color:dodgerblue;
+    height: 30px;
+
+}
+
+.largura-site{
+    width: 900px;
+    margin: auto;
+
+}
+
+#logotipo{
+    width: 140px;
+    height: 24px;
+    float: left;
+
+
+}
+#menu{
+    width: auto;
+    height: auto;
+    float: right;
+    margin-top: 5px;
+}
+
+#menu a{
+    color:  #FFF;
+    font-size: 20px;
+    text-decoration: none;
+    margin-left: 50px;
+
+
+}
+
+#menu :hover{
+    text-decoration: underline;
+    text-transform: uppercase;
+}
+
